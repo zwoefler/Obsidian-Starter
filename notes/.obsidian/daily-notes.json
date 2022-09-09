@@ -1,0 +1,6 @@
+{
+  "format": "DD.MM.YYYY",
+  "folder": "Journal",
+  "autorun": true,
+  "template": "templates/Journal Note (Template)"
+}

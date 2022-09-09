@@ -1,0 +1,20 @@
+{
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "showLineNumber": true,
+  "showFrontmatter": false,
+  "spellcheck": true,
+  "attachmentFolderPath": "assets",
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "legacyEditor": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "communityPluginSortOrder": "download",
+  "livePreview": true
+}

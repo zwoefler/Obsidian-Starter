@@ -1,0 +1,5 @@
+{
+  "askBeforeMerging": false,
+  "template": "templates/Refactor Note (Template)",
+  "replacementText": "embed"
+}

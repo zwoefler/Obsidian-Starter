@@ -1,0 +1,131 @@
+{
+  "workspaces": {
+    "Private": {
+      "main": {
+        "id": "916af09e95ce1d5f",
+        "type": "split",
+        "children": [
+          {
+            "id": "8beb23a3f6337add",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Setting Up BWI CloudLab Testing Infrastructure.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "f633c6bc4026e019",
+        "type": "split",
+        "children": [
+          {
+            "id": "102e4f9744e99aef",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7c2e4d9917c89061",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a9e77b7a88553230",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "Dinge",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 337.00746726989746,
+        "collapsed": true
+      },
+      "right": {
+        "id": "a844dddbff98c3c1",
+        "type": "split",
+        "children": [
+          {
+            "id": "b80ae1e721acc413",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b724e7800c08541f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Projects/Setting Up BWI CloudLab Testing Infrastructure.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "958f961f599b24d9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "0b65e9301d45fb25",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Projects/Setting Up BWI CloudLab Testing Infrastructure.md"
+                  }
+                }
+              },
+              {
+                "id": "d7584d7ad135aca1",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Projects/Setting Up BWI CloudLab Testing Infrastructure.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "8beb23a3f6337add"
+    }
+  },
+  "active": "Private"
+}
