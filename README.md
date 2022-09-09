@@ -111,4 +111,4 @@ Obsidian might **not** be for you when:
 - [ ] How to delete Obsidian?
 - [ ] Script to sync Obsidian to private GitHub Repository
 - [ ] Documentation to Plugins and functions in GitHub (git remote set-url)
-- [ ]
+- [ ] How to get your notes from Google-Keep to Markdown / into Obsidian
