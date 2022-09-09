@@ -1,20 +1,20 @@
 # Obsidian Starter Project
 Gets you started with the note taking App Obsidian!
 
-> [!INFO] Official **Obsidian** Documentation
-> 🔗 URL :: https://help.obsidian.md/Obsidian/Index
+Official **Obsidian** Documentation:
+🔗 URL :: https://help.obsidian.md/Obsidian/Index
 
 
 
 
 ## Getting started with Obsidian
 1. **Clone** this repository:: `git clone git@github.com:zwoefler/Obsidian-Starter.git`
-2. **Install** Obsidian:: https://obsidian.md/download
-	1. **Windows**:: https://github.com/obsidianmd/obsidian-releases/releases/download/v0.15.9/Obsidian.0.15.9.exe
-	2. **Mac** (Universial DMG):: https://github.com/obsidianmd/obsidian-releases/releases/download/v0.15.9/Obsidian-0.15.9-universal.dmg
+2. **Install** [Obsidian](https://obsidian.md/download)
+	1. **[Windows]**(https://github.com/obsidianmd/obsidian-releases/releases/download/v0.15.9/Obsidian.0.15.9.exe)
+	2. [**Mac** (Universial DMG)](https://github.com/obsidianmd/obsidian-releases/releases/download/v0.15.9/Obsidian-0.15.9-universal.dmg)
 	3. **Linux**:: (On Ubuntu, run the `./install_obsidian_ubuntu_appimage.sh` script)
-		1. AppImage:: https://github.com/obsidianmd/obsidian-releases/releases/download/v0.15.9/Obsidian-0.15.9.AppImage
-		2. Snap:: https://github.com/obsidianmd/obsidian-releases/releases/download/v0.15.9/obsidian_0.15.9_amd64.snap
+		1. [AppImage](https://github.com/obsidianmd/obsidian-releases/releases/download/v0.15.9/Obsidian-0.15.9.AppImage)
+		2. [Snap](https://github.com/obsidianmd/obsidian-releases/releases/download/v0.15.9/obsidian_0.15.9_amd64.snap)
 3. **Open** Obsidian
 4. Click **Open folder as vault** and choose the **location** of the **`/notes`** folder from this repo
 ![Open Vault](assets/Obsidian_first_open_menu_red_lines.png) ![Choose notes folder from this repo](assets/Obsidian_choose_Vault_notes_folder.png)
@@ -24,27 +24,32 @@ Gets you started with the note taking App Obsidian!
 
 🥳 You have successfully created your first note!
 
-### Start using Obsidian
+## Start using Obsidian
 Open the "How to use Obsidian note in Obsidian" using the Quickswitcher
 1. **CTRL + O**
 2. Type "How to" and hit **ENTER**
 3. Read the note, get started and have fun!
 ![Choose the How to Obsidian note](Choose_how_to.png)
 
----
+
 ## Basic Hotkeys
 - CTRL + O :: **Quickswitcher**, lets you find files
 - CTRL + P :: **Command Palette**, execute commands
 - CTRL + W :: **Closes current note**
 - ALT + E  :: **Include Template**
 
----
+
 
 ## What the template includes
 ### Templater
 A basic template that moves files that start with an `@` into the `People` folder.
 
-Hitting **ALT + E** will open the templater menu. A few basic templates such as `Source (Template)`, `Link (Template)` or `Origin (Template)` can be imported and used to save valuable time writing notes.
+Hitting **ALT + E** will open the templater menu.
+A few basic templates such as
+- `Source (Template)`
+- `Link (Template)`
+- `Origin (Template)`
+can be imported and used to save valuable time writing notes.
 
 The templater is a powerful tool, as you can create your own templates.
 
@@ -61,7 +66,6 @@ Hitting **CTRL + SHIFT + ^** will include a Footnote at the bottom of the note.
 Hitting **CTRL + SHIFT + ^** again will jump back to the text
 
 
----
 
 
 ## Tips
@@ -92,11 +96,11 @@ Obsidian might **not** be for you when:
 - **Tidy Footnotes**:: Sorts Footnotes
 
 
----
 
 ## Official Links
 
-**obsidian-releases**. Official GitHUb Repository to contribute themes and plugins. **Not** the source code!
+**obsidian-releases**. Official GitHUb Repository to contribute themes and plugins.
+**Not** the source code!
 🔗 URL :: https://github.com/obsidianmd/obsidian-releases
 
 
